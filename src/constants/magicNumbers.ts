@@ -1,0 +1,3 @@
+export const UNAUTHORIZED_CODE = 401;
+export const INTERNAL_SERVER_ERROR_CODE = 500;
+export const ALERT_CLOSE_TIMEOUT = 3000;

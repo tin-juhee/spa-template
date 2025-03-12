@@ -1,0 +1,9 @@
+{
+  "breakpoints": {
+    "sm": { "value": "40rem" },
+    "md": { "value": "48rem" },
+    "lg": { "value": "64rem" },
+    "xl": { "value": "80rem" },
+    "2xl": { "value": "96rem" }
+  }
+}

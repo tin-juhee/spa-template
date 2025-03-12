@@ -1,0 +1,15 @@
+@import './_variables.css';
+
+@theme default {
+  --color-primary: #7c3aed;
+  --color-secondary: #facc15;
+  --color-accent: rgba(159, 81, 255, 0.6);
+  --color-accent-foreground: #7c3aed;
+
+  --color-destructive: #dc2626;
+  --color-destructive-foreground: #fff;
+
+  --color-input: #d1d5db;
+  --color-background: #f9fafb;
+  --color-ring: var(--color-primary);
+}
